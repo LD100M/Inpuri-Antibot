@@ -1,1 +1,1 @@
-# Inpuri-Antibot
+A captcha-free solution that enhances security by using sensor data and machine learning to accurately predict user legitimacy, providing a seamless and secure experience for real users while blocking bots.
